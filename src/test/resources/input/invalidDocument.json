@@ -1,0 +1,12 @@
+{
+  "id": "idbatch",
+  "content": [
+    {
+      "type": "classified",
+      "author": "me",
+      "category": "entertainment",
+      "body": "this is an ad you may like",
+      "price": 500.0
+    }
+  ]
+}

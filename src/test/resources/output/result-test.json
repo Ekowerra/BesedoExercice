@@ -1,0 +1,60 @@
+{
+  "id": "idbatch",
+  "content": [
+    {
+      "id": "id1",
+      "status": "ok",
+      "reason": null
+    },
+    {
+      "id": "id2",
+      "status": "ok",
+      "reason": null
+    },
+    {
+      "id": "id3",
+      "status": "ko",
+      "reason": "scam"
+    },
+    {
+      "id": "id4",
+      "status": "ko",
+      "reason": "contact"
+    },
+    {
+      "id": "id5",
+      "status": "ko",
+      "reason": "contact"
+    },
+    {
+      "id": "id6",
+      "status": "ko",
+      "reason": "underage"
+    },
+    {
+      "id": "id7",
+      "status": "ok",
+      "reason": null
+    },
+    {
+      "id": "id8",
+      "status": "ok",
+      "reason": null
+    },
+    {
+      "id": "id9",
+      "status": "ko",
+      "reason": "nonsense"
+    },
+    {
+      "id": "id10",
+      "status": "error",
+      "reason": null
+    },
+    {
+      "id": "id11",
+      "status": "error",
+      "reason": null
+    }
+  ]
+}

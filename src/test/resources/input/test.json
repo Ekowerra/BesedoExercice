@@ -1,0 +1,96 @@
+{
+  "id": "idbatch",
+  "content": [
+    {
+      "id": "id1",
+      "type": "classified",
+      "author": "me",
+      "category": "entertainment",
+      "body": "this is an ad you may like",
+      "price": 500.0
+    },
+    {
+      "id": "id2",
+      "type": "classified",
+      "author": "me",
+      "category": "pets",
+      "body": "this is a pet you may like",
+      "price": 600.0
+    },
+    {
+      "id": "id3",
+      "type": "classified",
+      "author": "me",
+      "category": "pets",
+      "body": "this is a pet you may like",
+      "price": 1.0
+    },
+    {
+      "id": "id4",
+      "type": "classified",
+      "author": "me",
+      "category": "pets",
+      "body": "iloveyou@toto.fr",
+      "price": 600.0
+    },
+    {
+      "id": "id5",
+      "type": "classified",
+      "author": "me",
+      "category": "pets",
+      "body": "http://www.cassos.com/undercover",
+      "price": 600.0
+    },
+    {
+      "id": "id6",
+      "type": "profile",
+      "author": "me",
+      "body": "salut c'est cool",
+      "gender": "female",
+      "seeks": "female",
+      "age": 7,
+      "subject": "ce serait cool"
+    },
+    {
+      "id": "id7",
+      "type": "profile",
+      "author": "me",
+      "body": "Adrien?",
+      "gender": "female",
+      "seeks": "male",
+      "age": 27,
+      "subject": "je veux adrien ysnel"
+    },
+    {
+      "id": "id8",
+      "type": "message",
+      "author": "me",
+      "body": "Adrien?",
+      "subject": "je veux adrien ysnel",
+      "to": "Adrien"
+    },
+    {
+      "id": "id9",
+      "type": "message",
+      "author": "me",
+      "body": "Adrien?",
+      "subject": "nnnnnnnnn",
+      "to": "Adrien"
+    },
+    {
+      "id": "id10",
+      "type": "message",
+      "author": "me",
+      "body": "Adrien?",
+      "subject": "nnnnnnnnn",
+      "to": ""
+    },
+    {
+      "id": "id11",
+      "author": "me",
+      "body": "Adrien?",
+      "subject": "nnnnnnnnn",
+      "to": ""
+    }
+  ]
+}
